@@ -1,0 +1,84 @@
+:root {
+    --background-color: #E7E9FC;
+    --text-color: #434455;
+    --brand-color: #2E2F42;
+}
+
+
+.body {font-family: 'Roboto', sans-serif;
+}
+
+.link-contacts {color: var(--text-color);
+}
+
+
+/* portfolio page */
+
+
+.portfolio-button {color: #4D5AE5;
+background-color: #E7E9FC;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+cursor: pointer;
+}
+
+.portfolio-button:hover,
+.portfolio-button:focus {color: #FFFFFF;
+background-color: #404BBF;}
+
+.portfolio-title {color: var(--brand-color);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;}
+
+.portfolio-paragraph {color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+/* studio page styles */
+.nav-bar { background-color: var(--background-color);
+}
+
+.address {color: var(--text-color);
+    background-color: var(--background-color);
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.hero-section {color: #FFFFFF;
+    background-color: var(--brand-color);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;}
+
+.second-section {background-color: var(--background-color);}
+
+.second-section-mini-titles {color: var(--brand-color);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.second-section-paragraph {color: var(--text-color);
+    font-size: 16px;
+    line-height: 24px;}
+
+.third-section {background-color: var(--background-color);}
+
+.third-section-title {color: var(--brand-color);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.fourth-section {background-color: #E7E9FC;}
+.fourth-section-titile {color: var(--brand-color);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;}
+
+.footer-section {background-color: var(--brand-color);}
+.footer-paragraph {color: #F4F4FD;
+    font-size: 16px;
+    line-height: 24px;}
