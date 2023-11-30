@@ -11,8 +11,6 @@ background-color: var(--background-color);
 }
 
 .body-studio {font-family: 'Roboto', sans-serif;
-    color: var(--text-color)
-    background-color: var(--background-color);
 }
 
 
@@ -105,12 +103,14 @@ cursor: pointer;
 
 
 .second-and-fourth-section-mini-titles {color: var(--brand-color);
+    background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 .second-and-fourth-section-paragraph {color: var(--text-color);
+    background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;
 letter-spacing: 0.02em;
