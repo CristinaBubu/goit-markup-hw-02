@@ -101,6 +101,7 @@ cursor: pointer;
 
 
 .second-and-fourth-section-mini-titles {color: var(--brand-color);
+    background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -138,14 +139,8 @@ cursor: pointer;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.second-and-fourth-section-mini-title {
-    color: var(--brand-color);
-        background-color: #FFFFFF;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
+
+
 
 
 
