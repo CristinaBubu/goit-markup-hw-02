@@ -98,8 +98,6 @@ cursor: pointer;
 
 /* a doua sectiune */
 
-.second-section {background-color: var(--background-color);}
-
 
 
 .second-and-fourth-section-mini-titles {color: var(--brand-color);
@@ -111,6 +109,7 @@ cursor: pointer;
 }
 
 .second-and-fourth-section-paragraph {color: var(--text-color);
+    background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
