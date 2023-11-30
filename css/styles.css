@@ -101,7 +101,7 @@ cursor: pointer;
 
 
 .second-and-fourth-section-mini-titles {color: var(--brand-color);
-    background-color: #FFFFFF;
+    background-color: #FFFFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -109,7 +109,7 @@ cursor: pointer;
 }
 
 .second-and-fourth-section-paragraph {color: var(--text-color);
-    background-color: #FFFFFF;
+    background-color: #FFFFFFFF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
