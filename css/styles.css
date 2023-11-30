@@ -109,6 +109,8 @@ cursor: pointer;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
+.fourth-section .second-and-fourth-section-mini-titles {color:#ffffff;
+}
 .second-and-fourth-section-paragraph {color: var(--text-color);
     background-color: #FFFFFF;
     font-size: 16px;
