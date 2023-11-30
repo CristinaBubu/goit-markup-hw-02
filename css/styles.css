@@ -6,7 +6,7 @@
     --background-color-potfolio: #F4F4FD;
 }
 
-body {color: var(--text-color)
+body {color: #434455;
 background-color: var(--background-color);
 }
 
@@ -147,7 +147,7 @@ letter-spacing: 0.02em;
 .footer-section {background-color: var(--brand-color);
 }
 
-.logo-span-white {color: #f4f4f4fd;
+.logo-span-white {color: #F4F4FD;
 }
 
 .footer-paragraph {color: #F4F4FD;
