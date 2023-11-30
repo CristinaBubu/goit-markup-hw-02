@@ -6,7 +6,7 @@
     --background-color-potfolio: #F4F4FD;
 }
 
-body {color: #434455;
+body {color: var(--text-color)
 background-color: var(--background-color);
 }
 
@@ -132,21 +132,24 @@ letter-spacing: 0.02em;
 /* seciunea a patra */
 
 .fourth-section {background-color: #F4F4FD;}
-.fourth-section-titile {color: var(--brand-color);
+.fourth-section-title {color: var(--brand-color);
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 /* footer*/
 
 
-.footer-section {background-color: var(--brand-color);}
-.logo-span-white {color:#f4f4f4fd;
+.footer-section {background-color: var(--brand-color);
 }
+
+.logo-span-white {color: #f4f4f4fd;
+}
+
 .footer-paragraph {color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
